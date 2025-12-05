@@ -5,6 +5,6 @@ subtitle: ""
 tags: ["Jacksonville", "Florida", "USA", "physical", "2026", "North America"]
 thumb: /assets/img/logos/Just_icon_Color_small.png
 comments: false
-data: SQLSat1128
+data: 2026/SQLSat1128
 permalink: '/2026-05-02-dayofdata1128/'
 ---
