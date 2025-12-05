@@ -17,7 +17,7 @@ author: The SQL Saturday Corporation
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Past Events: "past"
+  Past Events: "https://sqlsaturday.com/past"
   Resources:
     - Running a New event: "newevent"
     - Submitting a PR to change an event: "pullrequest"
