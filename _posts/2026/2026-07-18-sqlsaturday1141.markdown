@@ -1,0 +1,9 @@
+---
+layout: event
+title: "Day of Data Baton Rouge 2026 (#1141)"
+subtitle: ""
+tags: ["USA", "Lousiana", "Baton Rouge", "physical", "2026", "North America"]
+thumb: /assets/img/logos/Just_icon_Color_small.png
+comments: false
+data: SQLSat1141
+---
