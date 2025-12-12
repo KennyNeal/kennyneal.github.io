@@ -31,7 +31,7 @@ These are the Day of Data events that are currently scheduled. If you would like
       {% if EventDate > TodayDate %}
         {% assign future = 1 %}
         <tr>
-          <td><img src="{{ post.thumb }}"></td>
+          <td><img src="/assets/img/logos/Just_icon_Color_small.png"></td>
           <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
           </td>
           <td>{% if post.postponed == 1 %}
