@@ -1,9 +1,5 @@
 ---
-layout: event
+layout: redirect
 title: "SQL Saturday Lima 2026 (#1138)"
-subtitle: ""
-tags: ["Lima", "Peru", "San Isidro", "physical", "2026", "South America"]
-thumb: /assets/img/logos/Just_icon_Color_small.png
-comments: false
-data: SQLSat1138
+redirect: "https://sqlsaturday.com/2026-01-17-sqlsaturday1138/"
 ---
