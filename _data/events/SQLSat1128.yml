@@ -50,7 +50,7 @@ speakertext: The call for speakers is open until Mar 31, 2026
 speakerlisturl: https://sessionize.com/api/v2/kbzrz2ol/view/Speakers
 submittedsessionurl: https://sessionize.com/api/v2/kbzrz2ol/view/Sessions
 
-callforspeakersurl: https://sessionize.com/sqlsatjax/
+callforspeakersurl: https://sessionize.com/dayofdatajax
 callforspeakers: true
 callforspeakersenddate: 31 Mar 2026
 
