@@ -1,11 +1,10 @@
 ---
 layout: event
-title: "SQL Saturday Raleigh 2026 (#1143)"
+title: "Raleigh Day of Data 2026 (#1143)"
 subtitle: ""
-tags: ["Raliegh", "North Carolina", "USA", "physical", "2026", "North America"]
+tags: ["Raleigh", "North Carolina", "USA", "physical", "2026", "North America"]
 thumb: /assets/img/logos/Just_icon_Color_small.png
 comments: false
 data: SQLSat1143
 permalink: '/2026-05-23-dayofdata1143/'
-testevent: 1
 ---
