@@ -13,6 +13,9 @@ description: |
     <p><b>Why Attend?</b> This is a great opportunity to learn from Data Experts, Microsoft MVPs, SQL Server Authors, and Professionals who have been through and can relate to the daily obstacles you face. 
     This one-day training event is unlike any other, providing food, training, and networking.</p>
 
+    <p><h1><b>STEM2 Kids Tech Camp</b></h1></p>
+    <img style="max-width: 50%;" src="/assets/img/events/jax/Stem2TechCamp.png"</p>
+
     <p><b>Data Clinic</b> - We will have a room set up for you to ask our Data Experts for assistance with any current challenges you might be having. Look for this image posted at the door:<br/>
     <img style="max-width: 50%;" src="/assets/img/logos/SQLRedCross.png"</p>
 
@@ -65,7 +68,7 @@ precondetail: |
     <p>Prerequisites</p>
     <p>Participants should know basic SQL. No performance tuning experience is needed. Basic SQL Server knowledge helps but is not required.</p>
     <br>
-    <p>Pinal Dave is a seasoned SQL Server Performance Tuning Expert and independent consultant. With over 22 years of hands-on experience, he has authored 14 books on SQL Server, created 92 Pluralsight courses, and published more than 5,800 articles on database technology on his blog, SQLAuthority. He also holds a Master of Science degree and multiple database certifications.</p>
+    <p><b>Pinal Dave</b> is a seasoned SQL Server Performance Tuning Expert and independent consultant. With over 22 years of hands-on experience, he has authored 14 books on SQL Server, created 92 Pluralsight courses, and published more than 5,800 articles on database technology on his blog, SQLAuthority. He also holds a Master of Science degree and multiple database certifications.</p>
 
     <a href="https://bit.ly/dayofdataprecon2026-2"><h1>Pre-con: Using AI to be your Data Engineering Partner - Andy Leonard, Stephen Leonard - Day of Data - Jacksonville, 2026</h1></a>
     <a href="https://bit.ly/dayofdataprecon2026-2"><h3>Click Here To Register - https://bit.ly/dayofdataprecon2026-2</h3></a>
@@ -100,8 +103,8 @@ precondetail: |
     <p>Participants should know basic SQL. No performance tuning experience is needed. Basic SQL Server knowledge helps but is not required.</p>
 
     <h3>Speakers:</h3>
-    <p>Andy Leonard is a husband, dad, and grandfather; creator of – and Data Philosopher at – DILM (Data Integration Lifecycle Management) Suite; a blogger, founder and Chief Data Engineer at Enterprise Data & Analytics; an SSIS and Azure Data Factory trainer, consultant, and developer; a SQL Server database and data warehouse developer; an author, mentor, engineer, and farmer.</p>
-    <p>Stephen Leonard With half a decade of experience in IT infrastructure and data management, Stephen specializes in bridging the gap between traditional systems and emerging AI-driven technologies. His expertise spans a broad range of platforms and tools, including Windows and Linux environments, cloud solutions (Azure AZ-900 certified), and enterprise-grade data systems. Stephen brings strong technical proficiency combined with hands-on experience in project management, client communication, and team collaboration.</p>
+    <p><b>Andy Leonard</b> is a husband, dad, and grandfather; creator of – and Data Philosopher at – DILM (Data Integration Lifecycle Management) Suite; a blogger, founder and Chief Data Engineer at Enterprise Data & Analytics; an SSIS and Azure Data Factory trainer, consultant, and developer; a SQL Server database and data warehouse developer; an author, mentor, engineer, and farmer.</p>
+    <p><b>Stephen Leonard</b> With half a decade of experience in IT infrastructure and data management, Stephen specializes in bridging the gap between traditional systems and emerging AI-driven technologies. His expertise spans a broad range of platforms and tools, including Windows and Linux environments, cloud solutions (Azure AZ-900 certified), and enterprise-grade data systems. Stephen brings strong technical proficiency combined with hands-on experience in project management, client communication, and team collaboration.</p>
     <br>
 
 scheduleurl: 
