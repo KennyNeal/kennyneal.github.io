@@ -78,33 +78,20 @@ precondetail: |
     <a href="https://bit.ly/dayofdataprecon2026-2"><h3>Click Here To Register - https://bit.ly/dayofdataprecon2026-2</h3></a>
 
     <h3>Session Details:</h3>
-    <ul>
-    <p>SQL Server performance tuning looks big from a distance, but once you work with real examples it becomes much easier. This workshop is fully hands on. You will learn tuning by fixing real problems step by step, the same way you would in real projects.</p>
-    <p>This is workshop with zero (0) slides and 100% demos. Everything you learn happens directly in SQL Server, in real time. You will tune slow queries, build smarter indexes, understand locking behavior, read wait stats, and handle parallelism surprises right in front of your eyes. Every concept comes with an action that you will try yourself.</p>
-    <p>You will also hear a short and honest note about AI. The goal is to give you the skills that help you survive the AI transformation. We skip skills that AI can do for you. We focus only on the parts that are real and essential and will keep you valuable in any database team.</p>
-    <p>The workshop includes</p>
-    <ul>
-    <li>Four hours of fast paced demos with real scenarios</li>
-    <li>Two hours of guided practice where you solve tasks</li>
-    <li>Thirty minutes of AMA time for your burning questions</li>
-    </ul>
-    <p>It is lively, engaging, and built to make you confident.</p>
-    <p>You will work on tasks such as</p>
-    <ul>
-    <li>Create the right index for a slow query</li>
-    <li>Rewrite a poorly performing query</li>
-    <li>Investigate blocking and reduce lock waits using GenAI</li>
-    <li>Choose indexes that avoid unnecessary locks</li>
-    <li>Read basic wait stats and spot the top bottleneck</li>
-    <li>Understand simple parallelism issues and tune them</li>
-    </ul>
-    <p>By the end, you will know how to find slow spots, tune common queries, and use core tools like execution plans, indexes, waits, and parallelism with confidence. You will also understand which skills matter most in a world where AI is becoming normal.</p>
-    <p>Goals</p>
-    <p>Learn the fundamentals of SQL Server performance tuning with real hands on tasks</p>
-    <p>Understand how indexing, query patterns, locking, waits, and parallelism affect performance</p>
-    <p>Build essential tuning skills that stay valuable even during the AI shift</p>
-    <p>Prerequisites</p>
-    <p>Participants should know basic SQL. No performance tuning experience is needed. Basic SQL Server knowledge helps but is not required.</p>
+    <p><b>Stop building pipelines the slow way.</b></p>
+    <p>AI is transforming data engineering, and the gap between those who've adapted and those who haven't is growing every month. This full-day session puts you on the right side of that gap. Whether you're new to Microsoft Fabric Data Factory or you've been building pipelines for years, we meet you where you are. No prerequisites. We start from the ground up.</p>
+
+    <p><b>What we'll build together:</b></p>
+    <p>Working pipelines. You'll learn the core mechanics of Fabric Data Factory, the design patterns professional engineers actually use, and how Claude Code can turn days of development into hours. This is code you'll take home and put to work.</p>
+
+    <p><b>Who should attend:</b></p>
+    <p>Data engineers, BI developers, IT professionals, and software developers at any level. If you touch data and want to move faster, you belong here.</p>
+
+    <p><b>Who's teaching:</b></p>
+    <p>The Leonards are a father-son team with different strengths and one shared obsession: figuring out what actually works. Andy has written books on data engineering. Stephen became the youngest precon presenter in PASS Summit history. Between them, you get decades of hard-won experience and a fresh perspective on where the field is heading.</p>
+
+    <p><b>The promise:</b></p>
+    <p>One day. Real skills. Faster pipelines. Every artifact we create together is yours to use and adapt. By the end of this day, you'll see data engineering differently, and you'll work a whole lot faster.</p>
 
     <h3>Speakers:</h3>
     <p><b>Andy Leonard</b> is a husband, dad, and grandfather; creator of – and Data Philosopher at – DILM (Data Integration Lifecycle Management) Suite; a blogger, founder and Chief Data Engineer at Enterprise Data & Analytics; an SSIS and Azure Data Factory trainer, consultant, and developer; a SQL Server database and data warehouse developer; an author, mentor, engineer, and farmer.</p>
