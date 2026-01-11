@@ -1,16 +1,4 @@
 events:
-- title: "Data Saturday #77 - Parma 2025"
-  date: Nov 29, 2025
-  url: https://datasaturdays.com/Event/20251129-datasaturday0077
-  thumb: /assets/img/logos/datasaturday_logo.png
-- title: "Data Saturday #81 - Madrid 2025"
-  date: Nov 29, 2025
-  url: https://datasaturdays.com/Event/20251129-datasaturday0081
-  thumb: /assets/img/logos/datasaturday_logo.png
-- title: "Data Saturday #72 - Slovenia 2025"
-  date: Dec 6 2025
-  url: https://datasaturdays.com/Event/20251206-datasaturday0072
-  thumb: /assets/img/logos/datasaturday_logo.png
 - title: "Data Saturday #78 - Data Community Austria Day 2026"
   date: Jan 23 2026
   url: https://datasaturdays.com/Event/20260123-datasaturday0078

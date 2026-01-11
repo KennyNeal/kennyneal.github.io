@@ -60,7 +60,6 @@ The following dates are tentative for these cities, but they have asked to reser
 - May 2025 - Redmond (POSTPONED)
 - Mar 21, 2026 - Atlanta - AI & BI
 - April 17-18, 2026 - SeaQL 2026 Ouddorp (NL)
-- May 2, 2026 - Jacksonville 2026
 - Tech Community Day / Day of Data Guatamala 2025 - TBD
 
 Please contact the local organizers for these areas if you have questions or concerns.
