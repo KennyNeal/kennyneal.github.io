@@ -104,8 +104,8 @@ scheduleheight : 3500
 scheduletimezone: Eastern Daylight Savings time UTC -5
 lunchcost: $15 (optional)
 eventhotel: |
-  <a href="">Hilton Tru</A><br/>
-  TBA 
+  <a href="https://bit.ly/hiltontru2026" target="_blank">Hilton Tru</A><br/>
+  You may place discounted reservations between 4/30/26 and 5/5/26 - All reservations must be booked before 4/22/26 for the discount. 
 eventcountdown: true
 
 countdownscript:
