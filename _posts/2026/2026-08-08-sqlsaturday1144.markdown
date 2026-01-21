@@ -1,0 +1,10 @@
+---
+layout: event
+title: "Day of Data Albany 2026 (#1144)"
+subtitle: ""
+tags: ["USA", "New York", "Albany", "physical", "2026", "North America"]
+thumb: /assets/img/logos/Just_icon_Color_small.png
+comments: false
+data: SQLSat1144
+testevent: 1
+---
