@@ -57,9 +57,8 @@ These are the Day of Data events that are currently scheduled. If you would like
 ## <a name="reserved"></a>Reserved Dates
 
 The following dates are tentative for these cities, but they have asked to reserve the date.
-- May 2025 - Redmond (POSTPONED)
-- Mar 21, 2026 - Atlanta - AI & BI
-- April 17-18, 2026 - SeaQL 2026 Ouddorp (NL)
+- Nov 7, 2026 - Oregon and SW Washington
+- Redmond (POSTPONED)
 - Tech Community Day / Day of Data Guatamala 2025 - TBD
 
 Please contact the local organizers for these areas if you have questions or concerns.
