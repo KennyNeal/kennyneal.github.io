@@ -7,11 +7,13 @@ virtual: false
 physical: true
 hybrid: false
 description: |
-    <p>SQL Saturday Albany will return for its 8th year on August 8, 2026. This is a one day, free conference for database professionals.</p>
-
+    <p>Day of Data Albany is a one-day community-based technical conference for anyone working in data-driven industries.</p>
+    <p>Topics include relational and non-relational databases, administration, analytics, machine learning & AI, and  much more!</p>
+    <p>Day of Data Albany has sessions that range from student and beginner up through advanced and expert-level. This is an opportunity to learn from industry experts while meeting others who are passionate about data. Solve ongoing challenges while improving the scalabity, security, and availability of your applications!</p>
+    <p>Day of Data Albany is hosted by the Capital Area SQL Server User Group, a 501(c)(3) non-profit organization.</p>
 officialwebsite: 
 eventlocation: |
-  Massry Center for Business<br/>
+  Massry School of Business<br/>
   Business Building, University at Albany<br/>
   Albany, NY 12206
 
@@ -32,11 +34,11 @@ eventcountdown: true
 countdownscript: |
     <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-08-08 08:00">Countdown</a>
  
-speakertext: The Call for Speakers is open until May 31, 2026. 
+speakertext: The Call for Speakers is open until April 30, 2026. 
 speakerlisturl: 
-callforspeakersurl: 
-callforspeakers:  false
-callforspeakersenddate: May 31, 2026
+callforspeakersurl: "https://sessionize.com/day-of-data-albany-2026/"
+callforspeakers:  true
+callforspeakersenddate: April 30, 2026
 
 organizers:
   - name: Capital Area SQL Server User Group
@@ -45,7 +47,7 @@ organizers:
     url: 
 
 volunteers:
-  description: "Volunteers are very important to a successful event. Please volunteer to assist at the event."
+  description: "Volunteers are a critical part of Day of Data Albany. When you register, consider becoming a volunteer. It is easy, fun, and the organizers ensure that volunteers have an amazing time!"
   volunteerurl: 
 
 social:
@@ -67,4 +69,4 @@ sponsors:
 join:
 
 sponsorplan: |
-  <p>Sponsorship plans and purchase options available <a href="https://www.eventbrite.com/e/sql-saturday-albany-2024-sponsorship-tickets-876632831397">here</a>.</p>
+  <p>Sponsors are what make these events possible. Sponsorship plans and purchase options available <a href="">here</a>. Thank you for being a key part of Day of Data Albany!</p>
