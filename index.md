@@ -57,9 +57,9 @@ These are the Day of Data events that are currently scheduled. If you would like
 ## <a name="reserved"></a>Reserved Dates
 
 The following dates are tentative for these cities, but they have asked to reserve the date.
+- Sep 19, 2026 - Salt Lake City, UT
 - Nov 7, 2026 - Oregon and SW Washington
-- Redmond (POSTPONED)
-- Tech Community Day / Day of Data Guatamala 2025 - TBD
+- Redmond (POSTPONED) TBD
 
 Please contact the local organizers for these areas if you have questions or concerns.
 
