@@ -161,6 +161,9 @@ sponsors:
   - link: https://us.sios.com/
     image: /assets/img/logos/sios_Medium.png
     width: 800
+  - link: https://tabulareditor.com
+    image: /assets/img/logos/tabular-editor-logo-rgb-pos.png
+    width: 800
     
 sponsorplan: |
     <p>Day of Data Jacksonville 2026 #1128 is an entire day conference related to the data professional and data technology. Day of Data is organized by Jax Data, a 501c3 non-profit organization.</p>
