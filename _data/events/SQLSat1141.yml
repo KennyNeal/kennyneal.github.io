@@ -70,6 +70,7 @@ sponsors:
     image: /assets/img/logos/DBADuck.png
   - link: https://silk.us
     type: Gold Sponsor
+    height: 200
     image: /assets/img/logos/Silk_logo.png
   - link: https://www.pcgrecruit.com
     type: Silver Sponsor
