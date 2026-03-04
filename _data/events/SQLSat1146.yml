@@ -1,0 +1,66 @@
+name: "SQL Saturday Wellington 2026" 
+primarytag: "Wellington"
+logo: /assets/img/event/1133/wellington2025_large.png
+logocredit: 
+date: 2026-05-30 09:00:00 0000
+virtual: false
+physical: true
+hybrid: false
+description: |
+    <p>SQL Saturday Wellington 2026 brings together the region's vibrant data community for a full day of learning, collaboration, and networking. Designed for database professionals, data engineers, developers, architects, analysts, students, and IT leaders, this community-driven event delivers high-quality technical sessions across the modern data platform landscape.</p>
+
+officialwebsite: 
+eventlocation: |
+  3 Wi Neera Dr,<br/>
+  Elsdon, Porirua 5022<br/>
+  New Zealand
+
+parkingdesc: "Free Parking"
+
+precons: false
+precondetail: 
+
+registrationurl: 
+capacity: 250
+googlemapurl: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d768542.4817913641!2d174.10001!3d-41.1973776!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3f53757389a93d%3A0x66fcecc046dcd141!2s3%20Wi%20Neera%20Drive%2C%20Elsdon%2C%20Porirua%205022%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1716338228714!5m2!1sen!2sus"
+scheduleurl: 
+scheduletimezone: New Zealand Standard time UTC+12
+
+eventcountdown: false
+
+countdownscript:
+    
+speakertext: The call for speakers is open until Apr 05, 2026.
+speakerlisturl: 
+callforspeakersurl: https://sessionize.com/sql-saturday-wellington-2026/
+callforspeakers:  true
+callforspeakersenddate: Apr 05, 2026
+
+organizers:
+  - name: Anupama Natarajan
+    twitter: shantha05
+    email: admin@pearlinnovations.co.nz
+    url: 
+  - name: Raju RH
+    twitter: 
+    email: admin@pearlinnovations.co.nz
+    url:     
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizers to volunteer."
+  volunteerurl: 
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+join:
+
+sponsorplan: <p>Coming Soon</p>
