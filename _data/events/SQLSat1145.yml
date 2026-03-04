@@ -1,0 +1,72 @@
+name: "SQL Saturday Haiti (#1145)"
+primarytag: "Haiti"
+logo: 
+logocredit: 
+date: 2026-04-25 08:00:00 -0500
+virtual: false
+physical: true
+hybrid: false
+description: |
+    <p>SQL Saturday Haiti is a one-day community-based technical conference for anyone working in data-driven industries.</p>
+    <p>Topics include relational and non-relational databases, administration, analytics, machine learning & AI, and  much more!</p>
+    <p>SQL Saturday Haiti has sessions that range from student and beginner up through advanced and expert-level. This is an opportunity to learn from industry experts while meeting others who are passionate about data. Solve ongoing challenges while improving the scalabity, security, and availability of your applications!</p>
+    <p>Day of Data Albany is hosted by the Capital Area SQL Server User Group, a 501(c)(3) non-profit organization.</p>
+officialwebsite: 
+eventlocation: |
+  Massry School of Business<br/>
+  Business Building, University at Albany<br/>
+  Albany, NY 12206
+
+parkingdesc: 
+
+precons: false
+precondetail: |
+  <p>There are precons available on Friday, August 7. Details coming soon.</p>
+
+registrationurl: https://www.eventbrite.com/e/day-of-data-albany-2026-tickets-1981149592763
+capacity: 300
+googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2932.750299021023!2d-73.8233339!3d42.6878314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89de0b3c0e155555%3A0x43fb1733d29edbb5!2sMassry%20Center%20for%20Business%20and%20School%20of%20Business%20Accolades!5e0!3m2!1sen!2sau!4v1714602501895!5m2!1sen!2sau"
+scheduleurl: 
+scheduletimezone: Eastern Daylight Savings time UTC -5
+
+eventcountdown: true
+
+countdownscript: |
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-08-08 08:00">Countdown</a>
+ 
+speakertext: The Call for Speakers is open until April 30, 2026. 
+speakerlisturl: 
+callforspeakersurl: "https://sessionize.com/day-of-data-albany-2026/"
+callforspeakers:  true
+callforspeakersenddate: April 30, 2026
+
+organizers:
+  - name: Capital Area SQL Server User Group
+    twitter: cassug_albany
+    email: ""
+    url: 
+
+volunteers:
+  description: "Volunteers are a critical part of Day of Data Albany. When you register, consider becoming a volunteer. It is easy, fun, and the organizers ensure that volunteers have an amazing time!"
+  volunteerurl: 
+
+social:
+  twitter: cassug_albany
+  youtube: 
+  linkedin: "https://www.linkedin.com/groups/4055363/"
+  instagram: 
+  tiktok: 
+  pinterest: 
+  meetup: https://www.meetup.com/capital-area-sql-server-user-group/
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+    
+ 
+
+
+join:
+
+sponsorplan: |
+  <p>Sponsors are what make these events possible. Sponsorship plans and purchase options available <A href="/assets/event/1144/DayofDataAlbany2026SponsorshipPlans.docx">here</a>. You can purchase a sponsorship <a href="https://www.eventbrite.com/e/day-of-data-albany-2026-sponsorship-tickets-1981437352460">here</a>. Thank you for being a key part of Day of Data Albany!</p>
