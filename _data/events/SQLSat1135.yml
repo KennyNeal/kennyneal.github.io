@@ -1,14 +1,15 @@
 name: "Day of Data Richmond 2026"
 primarytag: "Richmond"
-logo: /assets/img/logos/DayOfData-Richmond-logo-vertical-800.png
+logo: /assets/img/logos/DayOfData-Richmond-logo-horizontal.jpg
 logocredit: 
 date: 2026-04-11 09:00:00 -0000
 virtual: false
 physical: true
 hybrid: false
 description: | 
-    <p>Update: We are expanding our SQL Saturday Richmond event to include all databases & data platforms. To reflect this change, our new event name will be: Day of Data Richmond.</p>
-    <p>Day of Data Richmond is a free one-day training event for Data professionals and students.</br>
+    <p>Update: We are expanding our SQL Saturday Richmond event to include all databases & data platforms. To reflect this change, our new event name will be: <b>Day of Data Richmond</b>.</p>
+    <p>Day of Data Richmond is a free (Saturday) training event for Data professionals and students.</br>
+    This year, we also have 2 all-day <a href="https://dayofdata.org/2026-04-11-dayofdata1135/#precon">pre-con workshops</a> happening on Friday, April 10th. 
     Presentation topics include:</br>
     <ul><li>Database design, management & internals</li>
     <ul><li>SQL Server</li>
@@ -29,7 +30,6 @@ eventlocation: |
 
 eventlocationurl: 
 
-officialwebsite: https://dayofdata.org/richmond
 registrationurl: https://www.eventbrite.com/e/day-of-data-richmond-tickets-1982024615981
 capacity: 200 
 cocurl: https://dayofdata.org/coc/richmond-coc
@@ -49,20 +49,7 @@ precondetail: |
   <li>5:00pm - Workshops end</li></ul>
   </p>
   <h3>Workshops:</h3>
-  <p><ul><li><b>Hugo Kornelis - Execution Plans in Depth</b><br/>
-  For troubleshooting slow queries, looking at the execution plan is a good starting point. But sometimes, just looking at the plan does not help. Sometimes you need to dig deeper. <br/>
-  In this full-day pre-con session, you will learn everything you need to be take your understanding of execution plans to the next level. For almost every operator you can encounter in an execution plan, we will look at the inner workings, and look at properties that can affect their performance. We will also look at how operators in a plan interact with and affect each other.</br>
-  Aside from explaining all of the common operators, we will also touch on several operators that were introduced or modified in the newer versions of SQL Server. <br/>
-  In short: After this pre-con, you will be better prepared to look at execution plans, find the spot where it hurts, and then rewrite your query to get a faster execution plan.<br/>
-  If you have seen some execution plans but feel you need to bring your understanding to the next level, then this pre-con is for you.<br/>
-  <br/>
-  <b>Speaker Bio:</b><br/>
-  Hugo Kornelis is an established SQL Server community expert who spends a lot of time at various conferences. He is also a blogger, technical editor of a variety of books, and Pluralsight author. He was awarded SQL Server MVP and Data Platform MVP 17 times (2006 - 2016 / 2019 - now).<br/>
-  When not working for the community, he is busy at his day job: freelance database developer/consultant.<br/>
-  Hugo has over 25 years of SQL Server experience in various roles. Starting from a strong database design background, he has spent the last ten years specializing in execution plans and query performance tuning.<br/>
-  <br/>
-  </li>
-  <li><b>Lenore Flower - Power BI Paginated Reporting Crash Course</b><br/>
+  <p><ul><li><b>Lenore Flower - Power BI Paginated Reporting Crash Course</b><br/>
   When a report needs to be PDF-ed or printed, Power BI (Paginated) Report Builder is simply the right tool for the job. Yet—as anyone who has used Power BI Report Builder will tell you—creating a paginated report can be deceptively difficult.<br/>
   This hands-on paginated reporting workshop is designed to take true beginners and seasoned Power BI service users alike from frustrated to empowered. Attendees will first learn key paginated reporting concepts, then watch how those concepts translate into practical application in a demo. Each training segment culminates with attendees directly applying what they’ve learned by building their own reports, step by step.<br/>
   Throughout the training, attendees will also train their troubleshooting muscles by "Bailing out Benny," a fictional coworker facing a common paginated reporting problem participants will be challenged to solve together.<br/>
@@ -91,7 +78,7 @@ eventcountdown: true
 
 countdownscript: <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-7jn8" class="countdown-timer" data-style="columns" data-timezone="America/New_York" data-date="2026-04-11 08:30">Countdown</a>
  
-speakertext: The call for speakers opens November 1st.
+speakertext: 
 speakerlisturl: https://sessionize.com/api/v2/mc0fiyp1/view/SpeakerWall
 callforspeakersurl: https://sessionize.com/sql-saturday-rva-2026/
 callforspeakers:  true
@@ -100,7 +87,7 @@ callforspeakersenddate: 18 Jan 2026
 organizers:
   - name: "Richmond SQL Users Group"
     twitter: RichmondSQL
-    email: sqlsatrva@richmondsql.info
+    email: dayofdata@richmondsql.info
     url: https://www.meetup.com/Richmond-SQL-Server-Users-Group/
   - name: "Rob Baird"
     twitter: 
@@ -134,7 +121,15 @@ social:
 optInGlobalSponsor: 0
 sponsorscontacturl: 
 sponsors:
-   
+  - link: 
+    type: Platinum
+    image: "/assets/img/logos/kovoco.jpg"
+    width: 1000  
+  - link: http://marathonus.com/
+    type: Gold
+    image: /assets/img/logos/marathon-logo-color.jpg
+    width: 800
+ 
 sponsorplan:
   <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'>
   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
