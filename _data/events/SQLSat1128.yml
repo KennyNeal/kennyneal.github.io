@@ -170,6 +170,10 @@ sponsors:
     type: Bronze
     image: /assets/img/logos/tintri_corporate_logo_res.png
     width: 800
+  - link:  https://www.oreilly.com
+    type: In-Kind
+    image: /assets/img/logos/OReilly_Logo.png
+    width: 800
     
 sponsorplan: |
     <p>Day of Data Jacksonville 2026 #1128 is an entire day conference related to the data professional and data technology. Day of Data is organized by Jax Data, a 501c3 non-profit organization.</p>
