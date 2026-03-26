@@ -98,8 +98,8 @@ precondetail: |
     <p><b>Stephen Leonard</b> With half a decade of experience in IT infrastructure and data management, Stephen specializes in bridging the gap between traditional systems and emerging AI-driven technologies. His expertise spans a broad range of platforms and tools, including Windows and Linux environments, cloud solutions (Azure AZ-900 certified), and enterprise-grade data systems. Stephen brings strong technical proficiency combined with hands-on experience in project management, client communication, and team collaboration.</p>
     <br>
 
-scheduleurl: 
-printscheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/yn5slvcl/view/GridSmart
+printscheduleurl: https://sessionize.com/api/v2/yn5slvcl/view/GridSmart
 scheduleheight : 3500
 scheduletimezone: Eastern Daylight Savings time UTC -5
 lunchcost: $15 (optional)
@@ -142,18 +142,15 @@ sponsors:
   - link: https://www.unf.edu/ccec
     type: Event Host
     image: /assets/img/logos/UNFLogo.jpg
-    width: 651
-    height: 215
+    width: 800
   - link: https://www.idera.com
     type: Platinum
     image: /assets/img/logos/IDERA938x142.jpg
-    width: 938
-    height: 142
+    width: 800
   - link: https://www.cozyroc.com
     type: Silver
     image: /assets/img/logos/cozyroc-big.png
     width: 800
-    height: 183
   - link:  https://www.red-gate.com
     type: Platinum
     image: /assets/img/logos/RedGate.png
@@ -173,6 +170,10 @@ sponsors:
   - link:  https://www.oreilly.com
     type: In-Kind
     image: /assets/img/logos/OReilly_Logo.png
+    width: 800
+  - link: https://solvaria.com
+    type: Platinum
+    image: /assets/img/logos/solvaria_full color Hi-Res-01.jpg
     width: 800
     
 sponsorplan: |
