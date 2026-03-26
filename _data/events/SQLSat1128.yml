@@ -142,18 +142,15 @@ sponsors:
   - link: https://www.unf.edu/ccec
     type: Event Host
     image: /assets/img/logos/UNFLogo.jpg
-    width: 651
-    height: 215
+    width: 800
   - link: https://www.idera.com
     type: Platinum
     image: /assets/img/logos/IDERA938x142.jpg
-    width: 938
-    height: 142
+    width: 800
   - link: https://www.cozyroc.com
     type: Silver
     image: /assets/img/logos/cozyroc-big.png
     width: 800
-    height: 183
   - link:  https://www.red-gate.com
     type: Platinum
     image: /assets/img/logos/RedGate.png
@@ -173,6 +170,10 @@ sponsors:
   - link:  https://www.oreilly.com
     type: In-Kind
     image: /assets/img/logos/OReilly_Logo.png
+    width: 800
+  - link: https://solvaria.com
+    type: Platinum
+    image: /assets/img/logos/solvaria_full color Hi-Res-01.jpg
     width: 800
     
 sponsorplan: |
