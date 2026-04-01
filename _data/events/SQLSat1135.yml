@@ -62,7 +62,7 @@ precondetail: |
   <img src="/assets/img/logos/data_plumber_logo.png" width=400 alt="Data Plumber">
   <br/></p>
 
-scheduleurl: https://sessionize.com/api/v2/mc0fiyp1/view/Sessions
+scheduleurl: https://sessionize.com/api/v2/mc0fiyp1/view/GridSmart
 scheduletimezone: Eastern Daylight Time UTC -5
 lunchcost: Available for purchase at the event.
 eventcountdown: true
