@@ -71,12 +71,12 @@ sponsors:
   - link: https://silk.us
     type: Gold Sponsor
     image: /assets/img/logos/Silk_square_logo.jpg
-  - link: https://silk.us
-    type: Gold Sponsor
-    image: /assets/img/logos/Silk_square_logo.jpg
   - link: https://engage.isaca.org/batonrougechapter/home
+    type: Gold Sponsor
+    image: /assets/img/logos/ISACA_BR_2026.jpg
+  - link: https://www.pcgrecruit.com
     type: Silver Sponsor
-    image: /assets/img/ISACA_BR_2026.jpg
+    image: /assets/img/logos/PCG-Logo-Standard.png
 
 sponsorplan: |
     <style>
