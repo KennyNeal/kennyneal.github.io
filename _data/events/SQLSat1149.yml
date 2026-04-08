@@ -1,0 +1,69 @@
+name: "PNW Day of Data 2026 (#1149)"
+primarytag: "Oregon"
+logo: /assets/img/logos/OregonSQLSat.png
+logocredit: 
+date: 2026-11-07 08:00:00 -0000
+virtual: false
+physical: true
+hybrid: false
+description: | 
+    <p>The Pacific Northwest Day of Data (previously known as SQL Saturday Oregon/SW Washington) is a free one-day training event for data professionals using the Microsoft Data Platform. Session topics include SQL Server, Microsoft Fabric, Power BI, Azure Synapse, data analytics, visualization and more!</p>
+    <p>The Saturday conference attendance is free, but registration is required due to the venue capacity. Coffee and Beverages will be provided, and lunch will be available for a small fee to cover costs.</p>
+    <p>We are returning to the Washington State University Vancouver campus. WSUV is located in Vancouver, Washington USA, about 20 min. from PDX & downtown Portland, and is easily accessible via C-Tran (the local bus), ride-sharing services, or a friendly local! </p>
+    <p>Optional Friday all-day pre-conference sessions will be announced soon. There will be a nominal fee to attend one of the Friday pre-con sessions to cover speaker travel and facility costs. Pre-con sessions will be free to a limited number of WSUV students.</p>
+    <p>PNW Day of Data will be announcing additional details as we get close to the event.  In addition, we will have our wonderful vendors available with new products, new knowledge, and new opportunities!  We will end with a raffle of gifts provided by our many won derful Sponsors to be randomly selected by our "Wheel of Fortune".  Remember, you have to be present to win!  Come join the Data Community Family and meet fellow data professionals, employers, vendors, and experts on November 7th!</p>
+    <p>Register for SQL Saturday Oregon/SW Washington using the button below:</p>
+  
+eventlocation: |
+    Washington State University Vancouver<br/>
+    14204 NE Salmon Creek Avenue<br/>
+    Vancouver, WA, USA 98686-9600<br/>
+    <a href="https://www.vancouver.wsu.edu/campus-map-directions">Campus map</a>
+
+eventlocationurl: 
+
+officialwebsite: 
+registrationurl: 
+capacity: 
+googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3368.8061412452357!2d-122.63885162333024!3d45.7315672155592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495b20d2b462705%3A0x7c21a2220de523b9!2sWashington%20State%20University%20Vancouver!5e1!3m2!1sen!2sus!4v1755028008357!5m2!1sen!2sus"
+
+scheduleurl: https://sessionize.com/api/v2/utgie5h2/view/GridSmart
+scheduletimezone: Pacific Standard Time UTC -8
+
+
+eventcountdown: false
+
+countdownscript:
+ 
+speakertext: The call for speakers is open until Jul7 31, 2026.
+speakerlisturl: 
+callforspeakersurl: https://sessionize.com/pnw-day-of-data-20261107/
+callforspeakers:  true
+callforspeakersenddate: July 31, 2026
+
+organizers:
+  - name: Oregon Data Community
+    twitter: OregonSQL
+    email: outreach@oregonsql.org
+    url: http://oregonsql.org/
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl:
+
+social:
+  twitter: OregonSQL
+  youtube: "channel/UCj37MpcNm-2uVOetqiij9PQ/videos"
+  linkedin: "https://www.linkedin.com/groups/1800923/"
+  instagram: 
+  tiktok: 
+  pinterest: 
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+
+
+sponsorplan:
+    <h1><a name="sponsorship">Sponsorship Plan</a></h1>
+    <p>Coming Soon</p>
