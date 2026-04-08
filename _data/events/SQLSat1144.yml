@@ -64,7 +64,9 @@ optInGlobalSponsor: 1
 sponsors:
   - link: https://queueassoc.com/
     type: Bronze
-    image: /assets/img/logos/bronze\QABadgeWHITE_bronze.png
+    image: /assets/img/logos/bronze/QA+MSPHorizontal_bronze.png
+    width: 1008
+    height: 504
 
 
 join:
