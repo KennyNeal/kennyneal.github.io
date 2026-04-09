@@ -73,10 +73,11 @@ sponsors:
     image: /assets/img/logos/Silk_square_logo.jpg
   - link: https://engage.isaca.org/batonrougechapter/home
     type: Gold Sponsor
-    image: /assets/img/logos/Silk_square_logo.jpg
+    image: /assets/img/logos/ISACA_BR_2026.jpg
   - link: https://thetekchix.com/
     type: Gold Sponsor
     image: /assets/img/logos/TekChix_New_Logo.png
+    width: 200
   - link: https://www.eisneramper.com/
     type: Gold Sponsor
     image: /assets/img/logos/EAG.jpg
