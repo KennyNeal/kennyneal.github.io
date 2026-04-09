@@ -65,12 +65,13 @@ sponsors:
   - link: https://www.lsu.edu/business/sdeis/index.php
     type: Facility Sponsor
     image: /assets/img/logos/LSU-SDEIS-Logo.png
-  - link: https://www.lablue.com
-    type: Facility Sponsor (Workshops)
-    image: /assets/img/logos/Louisiana-Blue.jpg
   - link: https://www.excella.com
     type: Platinum Sponsor
     image: /assets/img/logos/Excella.jpg
+  - link: https://www.lablue.com
+    type: Facility Sponsor (Workshops)
+    image: /assets/img/logos/Louisiana-Blue.jpg
+    width: 500
   - link: https://www.dbaduck.com
     type: Gold Sponsor
     image: /assets/img/logos/DBADuck.png
