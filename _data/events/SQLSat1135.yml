@@ -112,7 +112,7 @@ social:
 optInGlobalSponsor: 0
 sponsorscontacturl: 
 sponsors:
-  - link: 
+  - link: http://kovoco.net
     type: Platinum
     image: "/assets/img/logos/kovoco-horizontal.jpg"
     width: 800  
