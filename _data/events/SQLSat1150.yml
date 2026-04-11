@@ -20,7 +20,7 @@ eventlocation: |
 
 eventlocationurl:
 usingrooms: false 
-precons: false
+precons: true
 precondetail: 
 
 officialwebsite: 
