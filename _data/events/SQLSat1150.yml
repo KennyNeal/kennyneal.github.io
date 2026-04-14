@@ -21,10 +21,22 @@ eventlocation: |
 eventlocationurl:
 usingrooms: false 
 precons: true
-precondetail: 
+precondetail: |
+    <p>Pre-Cons will be held on Friday October 2nd.</p>
+    <a href="https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583"><h1>Adding PostgreSQL To Your SQL Server Skill Set - Grant Fritchey - Boston Data and AI Saturday 2026</h1></a>
+    <a href="https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583"><h3>Click Here To Register - https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583</h3></a>
+    <h3>Session Details:</h3>
+    <p>Organizations are adopting PostgreSQL faster than they're retiring SQL Server. If you manage both now, or soon will, this all-day class cuts the learning curve by showing you exactly where the platforms align and where they diverge.</p>
+    <p>You'll learn PostgreSQL fundamentals through a SQL Server lens: architecture, queries, administration, tooling, and cloud deployment. Apply your existing expertise immediately instead of starting over.</p>
+    <p><b>Who should attend:</b> DBAs, architects, and developers managing SQL Server who are now responsible for PostgreSQL in hybrid environments, cloud adoption, or modernization projects.</p>
+        
+    <h3>Speaker:</h3>
+    <p><b>Grant Fritchey</b> is a Data Platform MVP and AWS Community Builder with over 30 years’ experience in IT, including time spent in support and development. Grant works with multiple data platforms including SQL Server and PostgreSQL as well as multiple cloud platforms. He has also developed in VB, VB.NET, C#, and Java. Grant writes books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product advocate in January 2011.</p>
+    
+    <br>
 
-officialwebsite: 
-registrationurl: 
+officialwebsite: https://dayofdata.org/boston/
+registrationurl: https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583
 capacity: 300
 googlemapurl: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11769.368100970227!2d-71.1915306!3d42.4842808!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa75ab2b32022223a!2sMicrosoft!5e0!3m2!1sen!2sus!4v1656599799394!5m2!1sen!2sus"
 
@@ -37,9 +49,9 @@ countdownscript:
  
 speakertext: The call for speakers will open soon
 speakerlisturl: 
-callforspeakersurl: 
+callforspeakersurl: https://sessionize.com/sql-saturday-boston-2026
 callforspeakers:  true
-callforspeakersenddate: 21 June 2026
+callforspeakersenddate: 31st May 2026
 
 organizers:
   - name: New England SQL Server User Group
