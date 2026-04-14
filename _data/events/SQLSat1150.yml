@@ -8,6 +8,8 @@ physical: true
 hybrid: false
 description: | 
     <p>This is a free event for the tech community organized by SQLSaturday and New England SQL Server User Group (NESQL). We want to encourage you to register early. If your plans change, please cancel your registration so others can attend.</p>
+    <h3>Register for a Precon today: <a href="https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583"><h1>Adding PostgreSQL To Your SQL Server Skill Set - Grant Fritchey - Boston Data and AI Saturday 2026</h1></a></p>
+    <p><a href="#precons">Click here for more details</a>.</p>
 
 eventlocation: |
   Microsoft Technology Center<br/>
@@ -23,8 +25,9 @@ usingrooms: false
 precons: true
 precondetail: |
     <p>Pre-Cons will be held on Friday October 2nd.</p>
-    <a href="https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583"><h1>Adding PostgreSQL To Your SQL Server Skill Set - Grant Fritchey - Boston Data and AI Saturday 2026</h1></a>
+    <p><a href="https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583"><h1>Adding PostgreSQL To Your SQL Server Skill Set - Grant Fritchey - Boston Data and AI Saturday 2026</h1></a><br>
     <a href="https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583"><h3>Click Here To Register - https://www.eventbrite.com/e/boston-data-and-ai-saturday-2026-tickets-1987157502583</h3></a>
+    </p>
     <h3>Session Details:</h3>
     <p>Organizations are adopting PostgreSQL faster than they're retiring SQL Server. If you manage both now, or soon will, this all-day class cuts the learning curve by showing you exactly where the platforms align and where they diverge.</p>
     <p>You'll learn PostgreSQL fundamentals through a SQL Server lens: architecture, queries, administration, tooling, and cloud deployment. Apply your existing expertise immediately instead of starting over.</p>
@@ -72,10 +75,14 @@ social:
   tiktok: 
   pinterest: 
 
-sponsorscontacturl: 
+sponsorscontacturl: The sponsorship plan can be <a href="https://onedrive.live.com/:w:/g/personal/08EFEF6C47534D9F/IQA-slZWMN-WT5wU-KrPbFPrAZGbVeClS4oZvFnWo9p2Gzs?resid=08EFEF6C47534D9F!s5656b23edf304f969c14f8aacf6c53eb&ithint=file%2Cdocx&e=7qsfcq&wdLOR=c3DFF17B8-9859-4809-A3B2-9014E0CDCD07&wdCid=E2964837-40B4-47D0-A53B-8BAD756A66CA&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy8wOGVmZWY2YzQ3NTM0ZDlmL0lRQS1zbFpXTU4tV1Q1d1UtS3JQYkZQckFaR2JWZUNsUzRvWnZGbldvOXAyR3pzP2U9N3FzZmNxJkNUPTE3NzYyMDI1NTkxMzgmT1I9T3V0bG9vay1Cb2R5JkNJRD1FMjk2NDgzNy00MEI0LTQ3RDAtQTUzQi04QkFENzU2QTY2Q0Emd2RMT1I9YzNERkYxN0I4LTk4NTktNDgwOS1BM0IyLTkwMTRFMENEQ0QwNw">downloaded here</a>"
 optInGlobalSponsor: 1
 sponsors:
-   
-sponsorplan: |
-    <p>This plan is coming soon</p>
+  - link: https://www.jamsscheduler.com/
+    type: Platinum Sponsor
+    image: /assets/img/logos/JAMS_logo_horizontalRGB.png
+    width: 1260
+    height: 336
+
+sponsorplan: 
     
