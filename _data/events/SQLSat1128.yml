@@ -65,7 +65,7 @@ precondetail: |
     <br>
 
 scheduleurl: https://sessionize.com/api/v2/yn5slvcl/view/GridSmart
-printscheduleurl: https://sessionize.com/api/v2/yn5slvcl/view/GridSmart
+printscheduleurl: https://sessionize.com/api/v2/yn5slvcl/view/GridSmart?format=Embed_Styled_Html&isDark=False&title=Day%20of%20Data%20Jacksonville
 scheduleheight : 3500
 scheduletimezone: Eastern Daylight Savings time UTC -5
 lunchcost: $15 (optional)
