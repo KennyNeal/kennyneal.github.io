@@ -7,9 +7,10 @@ virtual: false
 physical: true
 hybrid: false
 description: |
-  <p>SQL Saturday focused on SQL Server Admins and developers alike. We've some tracks for Analytics, BI, Lakehouse apart from SQL server on prem and cloud. Microsoft Fabric will be a key track as well.</p>
+  <p>We’re excited to bring the St. Louis data community together again for Day of Data St. Louis, a full day of learning, networking, and great conversations. This is a free, in‑person event for data professionals, technologists, and students, hosted at the Microsoft Innovation Hub on October 24 — and this year, we’re going even bigger with expanded sessions, speakers, and opportunities to connect. Day of Data builds on the long‑standing SQL Saturday and PASS community tradition, now grown to include modern data platforms, analytics, AI, and more.
+Space is limited, so we encourage you to register early and strongly recommend purchasing a priority attendance ticket that includes lunch during registration to guarantee your spot.</p>
 
-parkingdesc: 
+parkingdesc: Please park at the Cortex parking garage. The garage will be open for attendees to park and tickets will be validated at the front desk of the event.
     
 eventlocation: |
   Microsoft Technology Center<br/>
@@ -27,7 +28,7 @@ scheduleurl:
 printscheduleurl: 
 scheduleheight : 
 scheduletimezone: Central Standard Time UTC -5
-lunchcost: $18 (optional)
+lunchcost: ~$18 (optional)
 
 eventcountdown: true
 
@@ -44,7 +45,7 @@ callforspeakersenddate: 1 Aug 2026
 organizers:
   - name: "Murali Subramanian"
     twitter: 
-    email: stlssug@yahoo.com
+    email: stlssug@gmail.com
     url: 
   - name: "Sharon Reid"
     twitter: 
