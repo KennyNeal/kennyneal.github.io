@@ -57,7 +57,6 @@ These are the Day of Data events that are currently scheduled. If you would like
 ## <a name="reserved"></a>Reserved Dates
 
 The following dates are tentative for these cities, but they have asked to reserve the date.
-- Oct 24, 2026 - Minnesota Day of Data
 - Nov 7, 2026 - Oregon and SW Washington
 - Redmond (POSTPONED) TBD
 
