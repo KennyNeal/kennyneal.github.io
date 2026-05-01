@@ -1,5 +1,0 @@
----
-layout: redirect
-title: "SQL Saturday Minnesota 2026 (#1153)"
-redirect: "https://sqlsaturday.com/2026-10-24-sqlsaturday1153/"
----
