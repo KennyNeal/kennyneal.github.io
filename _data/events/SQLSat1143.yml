@@ -72,12 +72,24 @@ optInGlobalSponsor: 1
 sponsorscontacturl: 
 
 sponsors:
+  - link: https://www.idera.com
+    type: Gold
+    image: /assets/img/logos/IDERA938x142.jpg
+    width: 800
+  - link: https://www.cozyroc.com
+    type: Gold
+    image: /assets/img/logos/cozyroc-big.png
+    width: 800
+  - link: http://kovoco.net
+    type: Gold
+    image: "/assets/img/logos/kovoco-horizontal.jpg"
+    width: 800  
 
 sponsorplan: |
   <table>
     <tr>
       <td><b>Description</b></td>
-      <td><b>Gold</b></td>
+      <td><b>Gold (sold out)</b></td>
       <td><b>Silver</b></td>
       <td><b>Bronze</b></td>
       <td><b>Blog</b></td>
