@@ -1,4 +1,68 @@
----
-redirect:  https://sqlsaturday.com/2026-09-19-sqlsaturday1152/
-layout:     redirect
----
+name: "Salt Lake City Day of Data 2026"
+primarytag: "Salt Lake City"
+logo: 
+logocredit: 
+date: 2026-09-19 09:00:00 -0700
+virtual: false
+physical: true
+hybrid: false
+description: | 
+    <p>Day of Data is a one-day event for the community by the community. We will have sessions related to everything Database! We will have SQL Server, PostgreSQL, and many more database technologies.</p>
+    <p>All sessions will be held in person at Neumont University. This will be a 1-day event and will have sessions throughout the day. The event is free and open to all.</p>
+    
+postponed: 
+eventupdate: 
+
+eventlocation: |
+  Neumont University <br/>
+  143 S Main St,<br/>
+  SLC, UT 84115
+
+officialwebsite: https://www.utahgeekevents.com/events/day-of-data-2026-formerly-sql-saturday/
+registrationurl: 
+capacity: 
+googlemapurl: "https://maps.app.goo.gl/V8eKhKDX7r6A5WMr7"
+
+scheduleurl: 
+scheduletimezone: Mountain Daylight Time UTC -7
+
+eventcountdown: false
+
+countdownscript:
+ 
+speakertext: The call for speakers is open.
+speakerlisturl: 
+callforspeakersurl: https://sessionize.com/day-of-data-slc-2026/
+callforspeakers:  true
+callforspeakersenddate: 31 Jul 2026
+
+organizers:
+  - name: Ben Miller, Pat Wright
+    twitter: dbaduck
+    email: ben@benmiller.net
+    url: 
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl:
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+  meetup: https://www.meetup.com/Utah-SQL-Server-Group/
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+
+
+sponsorplan:
+    <h1><a name="sponsorship">Sponsorship Plan</a></h1>
+    <p>The sponsorship plans are <a href="https://drive.google.com/file/d/1eY86BqUCll0hF-J1R7JeVrbt9c_6PVLv/view?usp=sharing">here</a>.</p>
+
+    
+
