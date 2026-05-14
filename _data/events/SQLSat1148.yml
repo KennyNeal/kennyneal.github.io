@@ -1,6 +1,6 @@
 name: "Day of Data St Louis 2026 (#1148)"
 primarytag: "St. Louis"
-logo: "assets/img/logos/site/Day of Data St. Louis.png"
+logo: "/assets/img/logos/site/Day of Data St. Louis.png"
 logocredit: 
 date: 2026-10-24 09:00:00 -0600
 virtual: false
@@ -76,4 +76,4 @@ sponsors:
 
 sponsorplan:
     <p>Sponsorships are available - if your organization is interested please contact Michelle Work at <A href="mailto:mwork@mailctp.com">mwork@mailctp.com</a>.</p>
-    <p> <a href="assets/pdf/STL/Day_of_Data_St_Louis_Sponsorship_Options_2026.pdf">Download our Sponsorship document from here </a>. thank you!</p>
+    <p> <a href="/assets/pdf/STL/Day_of_Data_St_Louis_Sponsorship_Options_2026.pdf">Download our Sponsorship document from here </a>. thank you!</p>
