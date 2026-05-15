@@ -15,6 +15,7 @@ parkingdesc:
     Parking Info<br>
     Validation is provided by Microsoft reception (when you check-in at the event) for the Cortex Orange Garage and North Silo parking lot. Please retain your original ticket to scan prior to your validation ticket.<br>
     <a href="https://maps.app.goo.gl/LboGifeqcP81mscY8">Directions to Cortex Orange Garage</a>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.6572629080756!2d-90.25203912567942!3d38.63376506221912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d8b53eaeb0e5af%3A0xa45dcf0204c0dca6!2sCortex%20Orange%20Garage!5e0!3m2!1sen!2sus!4v1778872102170!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     
 eventlocation: |
   Microsoft Technology Center<br/>
@@ -42,7 +43,7 @@ countdownscript: |
 speakertext: The Call for speakers is open through July 1, 2026. Please contact us if you want to help St Louis Professional community grow and speak at another event.
 speakerlisturl: 
 submittedsessionurl: 
-callforspeakersurl: 
+callforspeakersurl: https://sessionize.com/st-louis-day-of-data/
 callforspeakers:  true
 callforspeakersenddate: 1 Jul 2026
 
