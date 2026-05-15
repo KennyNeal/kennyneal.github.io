@@ -42,7 +42,7 @@ countdownscript: |
 speakertext: The Call for speakers is open through July 1, 2026. Please contact us if you want to help St Louis Professional community grow and speak at another event.
 speakerlisturl: 
 submittedsessionurl: 
-callforspeakersurl: 
+callforspeakersurl: https://sessionize.com/st-louis-day-of-data/
 callforspeakers:  true
 callforspeakersenddate: 1 Jul 2026
 
