@@ -11,6 +11,8 @@ description: |
     <p>Topics include relational and non-relational databases, administration, analytics, machine learning & AI, and  much more!</p>
     <p>Day of Data Albany has sessions that range from student and beginner up through advanced and expert-level. This is an opportunity to learn from industry experts while meeting others who are passionate about data. Solve ongoing challenges while improving the scalabity, security, and availability of your applications!</p>
     <p>Day of Data Albany is hosted by the Capital Area SQL Server User Group, a 501(c)(3) non-profit organization.</p>
+    <p><a href="https://www.eventbrite.com/e/modern-data-warehousing-with-microsoft-fabric-tickets-1989386955938">Register for the Modern Data Warehousing with fabric precon on Friday, Aug 7.</a></p>
+
 officialwebsite: 
 eventlocation: |
   Massry School of Business<br/>
@@ -19,14 +21,16 @@ eventlocation: |
 
 parkingdesc: 
 
-precons: false
+precons: true
 precondetail: |
-  <p>There are precons available on Friday, August 7. Details coming soon.</p>
+   <h2>Modern Data Warehousing with Microsoft Fabric</h2>
+   <p>In the age of cloud analytics, today’s best practice is tomorrow’s legacy. Microsoft Fabric aims to be the one platform that rules them all, bringing together data engineering, warehousing, and visualization in a single Software-as-a-Service (SaaS) package. At the heart of this platform, Fabric Data Warehouse delivers a familiar yet modern T-SQL–based experience that is scalable, cloud-native, and tightly integrated with the broader Fabric ecosystem. </p>
+   <p>Join Kristyna Ferris and Chris Hyde for deep dive on Friday, Aug 7 from 8am-5pm. <a href="https://www.eventbrite.com/e/modern-data-warehousing-with-microsoft-fabric-tickets-1989386955938">Register and get more details by clicking here</a>.</p>
 
 registrationurl: https://www.eventbrite.com/e/day-of-data-albany-2026-tickets-1981149592763
 capacity: 300
 googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2932.750299021023!2d-73.8233339!3d42.6878314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89de0b3c0e155555%3A0x43fb1733d29edbb5!2sMassry%20Center%20for%20Business%20and%20School%20of%20Business%20Accolades!5e0!3m2!1sen!2sau!4v1714602501895!5m2!1sen!2sau"
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/qy1bputf/view/GridSmart
 scheduletimezone: Eastern Daylight Savings time UTC -5
 
 eventcountdown: true
