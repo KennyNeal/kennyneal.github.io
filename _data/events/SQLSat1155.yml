@@ -1,0 +1,64 @@
+name: "Seattle Day of Data 2026"
+primarytag: "Seattle"
+logo: 
+logocredit: 
+date: 2026-11-12 09:00:00 -0500
+virtual: false
+physical: true
+hybrid: false
+description: |
+  <p>Welcome to Seattle Day of Data 2026! This is a free event for the tech community covering a variety of data topics, including SQL Server, PostgreSQL, Fabric, Databricks, and more.</p>
+  
+eventlocation: |
+    Hyatt Regency Seattle<br>
+    808 Howell St<br>
+    Seattle, WA 98101<br>
+
+parkingdesc: 
+
+eventlocationurl: https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears
+
+officialwebsite: 
+registrationurl: 
+capacity: 300
+googlemapurl: 
+precons: false
+precondetail:
+
+scheduleurl: 
+scheduletimezone: Pacific Standard Time UTC -8
+schedulehtml: 
+
+eventcountdown: false
+
+countdownscript:
+ 
+speakertext: 
+speakerlisturl: 
+callforspeakersurl: 
+callforspeakers:  true
+callforspeakersenddate: 30 Jun 2026
+
+organizers:
+  - name: "Pat Wright"
+    twitter: 
+    email: 
+    url: 
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl: 
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+
+sponsorplan: 
