@@ -20,7 +20,7 @@ parkingdesc: "Free Parking"
 precons: false
 precondetail: 
 
-registrationurl: 
+registrationurl: https://www.eventbrite.com/e/day-of-data-sql-saturday-wellington-2026-tickets-1989181606733
 capacity: 250
 googlemapurl: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d768542.4817913641!2d174.10001!3d-41.1973776!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3f53757389a93d%3A0x66fcecc046dcd141!2s3%20Wi%20Neera%20Drive%2C%20Elsdon%2C%20Porirua%205022%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1716338228714!5m2!1sen!2sus"
 scheduleurl: 
@@ -61,6 +61,20 @@ social:
 sponsorscontacturl: 
 optInGlobalSponsor: 1
 sponsors:
+  - link: 
+    image: /assets/img/logos/zenvault.png
+    width: 890
+    height: 277
+  - link: https://pearlinnovations.co.nz/
+    image: /assets/img/logos/pearlinnovations.png
+    width: 325
+    height: 81
+  - link: https://www.whitireiaweltec.ac.nz/programme-search
+    image: /assets/img/logos/weltec.png
+    width: 320
+    height: 153
+
+
 join:
 
 sponsorplan: <p>Coming Soon</p>
