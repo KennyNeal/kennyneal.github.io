@@ -1,0 +1,67 @@
+name: "Data Day Edinburgh 2026"
+primarytag: "Edinburgh"
+logo: 
+logocredit: 
+date: 2026-10-23 09:00:00 -0500
+virtual: false
+physical: true
+hybrid: false
+description: |
+  <p>Data Day Edinburgh 2026 is a free one-day event for professionals who predominantly work with the Microsoft data platform. This community-led event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more. Anyone working with the Microsoft data platform (Azure, SQL Server, Power BI, Fabric, Databricks) and the wider data ecosystem (e.g. Postgres, open-source tooling, artificial intelligence), as well as interested in professional development should attend.</p>
+  
+eventlocation: |
+    COSLA Conference Centre<br/>
+    Edinburgh, United Kingdom
+
+parkingdesc: 
+
+eventlocationurl: 
+
+officialwebsite: 
+registrationurl: 
+capacity: 300
+googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.238679109365!2d-3.223680923287174!3d55.94523497315609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7a58b60ed03%3A0x9ffe7e31a4c979de!2sCOSLA%20Conference%20Centre!5e0!3m2!1sen!2sus!4v1780500247189!5m2!1sen!2sus"
+precons: false
+precondetail:
+
+scheduleurl: 
+scheduletimezone: British Summer Time UTC +1
+schedulehtml: 
+
+eventcountdown: false
+
+countdownscript:
+ 
+speakertext: 
+speakerlisturl: 
+callforspeakersurl: https://sessionize.com/data-day-edinburgh-2026/
+callforspeakers:  true
+callforspeakersenddate: 12 Jul 2026
+
+organizers:
+  - name: "Abhi Jayanty"
+    twitter: 
+    email: info@datadayedinburgh.co.uk
+    url: 
+  - name: "Thomas Sykes"
+    twitter: 
+    email: info@datadayedinburgh.co.uk
+    url: 
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl: 
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+
+sponsorplan: The sponsor plan is <a href="https://drive.google.com/file/d/1e6IkATNgjacJbyXJ3j6gRZgAmn0yQnXk/view?usp=drive_link">here</a>. Please download it and consider supporting our event.
