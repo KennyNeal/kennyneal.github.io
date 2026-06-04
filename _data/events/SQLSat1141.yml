@@ -23,17 +23,17 @@ precondetail:
 
 googlemapurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3441.019211412751!2d-91.18084668474775!3d30.407196808299283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8626a71f53558cab%3A0xb2fe07baff64bbcb!2sLSU%20Business%20Education%20Complex!5e0!3m2!1sen!2sus!4v1649778118080!5m2!1sen!2sus
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/ocxfgd65/view/GridSmart
 scheduletimezone: Central Daylight Time UTC -7
 
 eventcountdown: true
 
 countdownscript: <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-zou9" class="countdown-timer" data-style="columns" data-timezone="America/Chicago" data-date="2026-07-18 08:30">Countdown Timer</a>
 
-speakertext: The call for speakers is now open. Please submit your proposals for regular and pre-convention sessions.
-speakerlisturl: 
+speakertext: The call for speakers is closed. Thank you to everyone who submitted a session for consideration.
+speakerlisturl: https://sessionize.com/api/v2/ocxfgd65/view/SpeakerWall
 callforspeakersurl: https://sessionize.com/sqlsatbr26/
-callforspeakers: true
+callforspeakers: false
 callforspeakersenddate: 1 May 2026
 
 organizers:
@@ -47,7 +47,7 @@ organizers:
 
 volunteers:
   description: "Volunteers are very important to a successful event. There are several ways you can help, from stuffing bags for attendees, to staffing the check-in desk, to proctoring rooms on the day of the event. Please consider signing up to volunteer."
-  volunteerurl: https://www.signupgenius.com/go/4090C49AFAA2EA2FF2-57005830-sqlsaturday#/
+  volunteerurl: https://www.signupgenius.com/go/4090C49AFAA2EA2FF2-64424761-dayofdata#/
 
 social:
   twitter: sqlsatbr
@@ -103,6 +103,9 @@ sponsors:
   - link: https://www.pcgrecruit.com
     type: Silver Sponsor
     image: /assets/img/logos/PCG-Logo-Standard.png
+  - link: https://www.isc2-cgcchapter.org/home
+    type: Silver Sponsor
+    image: /assets/img/logos/isc2.png
 
 sponsorplan: |
     <style>
