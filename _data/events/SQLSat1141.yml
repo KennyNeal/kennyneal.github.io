@@ -81,9 +81,6 @@ sponsors:
   - link: https://www.dbaduck.com
     type: Gold Sponsor
     image: /assets/img/logos/DBADuck.png
-  - link: https://silk.us
-    type: Gold Sponsor
-    image: /assets/img/logos/Silk_square_logo.jpg
   - link: https://engage.isaca.org/batonrougechapter/home
     type: Gold Sponsor
     image: /assets/img/logos/ISACA_BR_2026.jpg
@@ -106,6 +103,9 @@ sponsors:
   - link: https://www.isc2-cgcchapter.org/home
     type: Silver Sponsor
     image: /assets/img/logos/isc2.png
+  - link: https://www.sparkhound.com/
+    type: Silver Sponsor
+    image: /assets/img/logos/sparkhound.png
 
 sponsorplan: |
     <style>
