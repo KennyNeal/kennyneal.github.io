@@ -113,6 +113,9 @@ sponsors:
   - link: https://www.sparkhound.com/
     type: Silver Sponsor
     image: /assets/img/logos/sparkhound.png
+  - link: https://www.mpinsight.org/
+    type: Silver Sponsor
+    image: /assets/img/logos/MPInsight.png
 
 sponsorplan: |
     <style>
