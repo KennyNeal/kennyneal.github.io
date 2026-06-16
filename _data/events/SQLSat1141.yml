@@ -18,8 +18,32 @@ eventlocation: |
 officialwebsite: https://www.sqlsatbr.com
 registrationurl: https://www.eventbrite.com/e/day-of-data-baton-rouge-2026-registration-1980045477324?aff=oddtdtcreator
 capacity: 500
-precons: false
-precondetail: 
+precons: true
+precondetail: |
+   <p>Pre-Cons will be held on Friday July 17th.</p>
+    <a href="https://www.sqlsatbr.com/precons#h.nlb272c3ff5i"><h1>PowerShell DBA Dream dbatools Workshop - Ben Miler</h1></a>
+    <a href="https://www.sqlsatbr.com/precons#h.nlb272c3ff5i"><h3>Click Here To Register - https://www.sqlsatbr.com/precons#h.nlb272c3ff5i</h3></a>
+    <h3>Session Details:</h3>
+    <p>This full day class will take you through the most essential DBATOOLS module commands and teach you all you need to know to hit the ground running. We will go over the dbatools ecosystem and the common concepts that will help you get the most out of this module. There are over 650 commands, so we won't be going over all of them, but I will take you through the mainstream, daily use commands in the Get, Set, Test, Backup, Restore and others in the verbs in this module.
+    <p>Not only that but we will cover how to prepare your profile and environment to have ready variables that will assist you in quick commandline operation as well as automated running of commands. Join me in the quest for becoming a PowerShell DBA.   </p>
+    
+    <h3>Speaker:</h3>
+    <p><b>Ben Miller</b>, aka @dbaduck, is a seasoned database professional with over 25 years of experience in SQL Server, PowerShell, and automation. As a passionate advocate for efficiency and innovation, Ben specializes in empowering IT professionals and DBAs to harness the power of PowerShell for database and server management.
+    <p>A Microsoft Data Platform and PowerShell MVP, speaker, and community contributor, Ben has a knack for breaking down complex topics into practical, actionable insights. When he’s not automating workflows or sharing his knowledge, you’ll find him engaging with the #SQLFamily or exploring new tech to help others work smarter.</p>
+    <p>Follow Ben on all Social Media (@dbaduck) and dive into the world of automation and database magic with him!</p>
+    
+    <a href="https://www.sqlsatbr.com/precons#h.k8a19fj4jcoe"><h1>AI for the Rest of Us: Vibe Coding & Building MCP Servers with FastMCP - Daryl Roberts</h1></a>
+    <a href="https://www.sqlsatbr.com/precons#h.k8a19fj4jcoe"><h3>Click Here To Register - https://www.sqlsatbr.com/precons#h.k8a19fj4jcoe</h3></a>
+
+    <h3>Session Details:</h3>
+    <p>You've heard the buzzwords — AI, LLMs, vectors, embeddings, "MCP" — but you've never actually sat down and built anything with them. This hands-on day is for you. No AI experience required, and you don't even need to be a developer.</p>
+    <p>We'll start at the very beginning: what AI and large language models actually are, what a "vector" and an "embedding" really mean, and how a vector store (yes, including SQL Server 2025) fits into the picture. Then we'll get our hands dirty with "vibe coding" — using AI to build small, working tools live, breaking things and fixing them as we go. In the afternoon we level up to FastMCP: what the Model Context Protocol is, how to find and use MCP tools, and how to build your own so an AI can take real actions — like querying a database in plain English.</p>
+    <p>This is a workshop, not a lecture. We introduce a concept, then you build it. You won't walk out with a polished product — you'll walk out with something better: a real understanding of how modern AI fits together, and the confidence to go build your own.</p>
+    
+    <h3>Speaker:</h3>
+    <p><b>Daryl Roberts</b> is the Head of AI at <a href="https://obney.ai">obney.ai</a> — and his road there was anything   but typical. He spent six years as a diesel mechanic (and a U.S. Marine before that) before teaching himself AI, building projects in public until the work spoke for itself. Today he designs and ships production AI systems for clients across legal, education, industrial, and healthcare, and he's taught hands-on AI engineering to working developers.</p>
+    <p>Daryl is a believer in practical strategies over complexity. Borrowing the Marine Corps' OODA loop, he teaches an "AI Engineering Loop" for building systems you can actually trust, and has spoken on applied AI engineering at NoAI. He loves turning intimidating topics into things anyone can build. Off the clock, you'll find him reading research papers or escaping into the Louisiana outdoors.</p>
+    
 
 googlemapurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3441.019211412751!2d-91.18084668474775!3d30.407196808299283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8626a71f53558cab%3A0xb2fe07baff64bbcb!2sLSU%20Business%20Education%20Complex!5e0!3m2!1sen!2sus!4v1649778118080!5m2!1sen!2sus
 
