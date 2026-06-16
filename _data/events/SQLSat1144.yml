@@ -71,6 +71,16 @@ sponsors:
     image: /assets/img/logos/bronze/QA+MSPHorizontal_bronze.png
     width: 1008
     height: 504
+  - link: https://www.albany.edu/business/programs/bs-digital-forensics-and-information-security
+    type: Platinum
+    image: /assets/img/logos/site/UAlbany.png
+    width: 920
+    height: 210
+  - link: https://devitjobs.com
+    type: Web
+    image: /assets/img/logos/site/devitus-rectangle.png
+    width: 360
+    height: 200
 
 
 join:
