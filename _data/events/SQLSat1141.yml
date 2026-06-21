@@ -118,12 +118,15 @@ sponsors:
   - link: https://www.eisneramper.com/
     type: Gold Sponsor
     image: /assets/img/logos/EAG.jpg
+    width: 500
   - link: https://www.servicenow.com
     type: Gold Sponsor
     image: /assets/img/logos/ServiceNow_logo.png
+    width: 500
   - link: https://www.pathfinderdatastrategy.com/
     type: Gold Sponsor
     image: /assets/img/logos/Pathfinder.png
+    width: 500
   - link: https://mmrgrp.com
     type: Gold Sponsor
     image: /assets/img/logos/MMR_Registered_Logo_Color 1.svg
@@ -131,18 +134,27 @@ sponsors:
   - link: https://www.pcgrecruit.com
     type: Silver Sponsor
     image: /assets/img/logos/PCG-Logo-Standard.png
+    width: 400
   - link: https://www.isc2-cgcchapter.org/home
     type: Silver Sponsor
     image: /assets/img/logos/isc2.png
+    width: 400
   - link: https://www.sparkhound.com/
     type: Silver Sponsor
     image: /assets/img/logos/sparkhound.png
+    width: 400
   - link: https://www.mpinsight.org/
     type: Silver Sponsor
     image: /assets/img/logos/MPInsight.png
+    width: 400
+  - link: https://moveforward.co/
+    type: Silver Sponsor
+    image: /assets/img/logos/forward-data-consultants.png
+    width: 400
   - link: https://180pros.com/
     type: Bronze Sponsor
-    image: /assets/img/logos/180Pros.jpg 
+    image: /assets/img/logos/180Pros.jpg
+    width: 300
 
 sponsorplan: |
     <style>
