@@ -7,7 +7,7 @@ virtual: false
 physical: true
 hybrid: false
 description: | 
-    <p>Day of Data is a global event to bring Information Technology speakers and professionals together for a community-driven, community-attended free day of technical training.</p>
+    <p>Day of Data is a global event to bring Information Technology speakers and professionals together for a community-driven, community-attended free day of technical training on SQL Server, Azure SQL, and other database related technologies.</p>
 
 eventlocation: |
   Católica de Vitória Centro Universitário,<br/>
