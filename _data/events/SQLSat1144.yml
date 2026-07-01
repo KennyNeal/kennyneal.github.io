@@ -76,6 +76,11 @@ sponsors:
     image: /assets/img/logos/site/UAlbany.png
     width: 920
     height: 210
+  - link: https://www.emazzanti.net/
+    type: Silver
+    image: /assets/img/logos/silver/EmazzantiTechnologies_silver.jpeg
+    width: 300
+    height: 79
   - link: https://devitjobs.com
     type: Web
     image: /assets/img/logos/site/devitus-rectangle.png
