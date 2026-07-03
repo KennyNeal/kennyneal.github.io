@@ -1,0 +1,64 @@
+name: "Data of Day Winnipeg 2026"
+primarytag: "Winnipeg"
+logo: 
+logocredit: 
+date: 2026-09-19 09:00:00 -0700
+virtual: false
+physical: true
+hybrid: false
+description: |
+  <p>Day of Data Winnipeg 2026 is a free, community-driven event for data professionals, technology enthusiasts, students, and lifelong learners. Hosted at the University of Manitoba, the event builds on the tradition of Winnipeg's successful SQL Saturday conferences while expanding to encompass the full spectrum of modern data technologies from SQL Server to PostgreSQL to Databricks and more.</p>
+  
+eventlocation: |
+    University of Manitoba,<br/>
+    Engineering and Information Technology Complex</br>
+    75 Chancellors Circle, Winnipeg MB
+
+parkingdesc: 
+
+eventlocationurl: 
+
+officialwebsite: 
+registrationurl: https://www.eventbrite.ca/e/data-of-data-winnipeg-2026-registration-1993036977250?aff=oddtdtcreator
+capacity: 300
+googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2574.808384505258!2d-97.13713028715914!3d49.80846997135774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ea75fb3f87c1e5%3A0x4e55d38482a680dd!2s75%20B%20Chancellors%20Cir%2C%20Winnipeg%2C%20MB%20R3T%205V6%2C%20Canada!5e0!3m2!1sen!2sus!4v1783055573839!5m2!1sen!2sus"
+precons: false
+precondetail:
+
+scheduleurl: 
+scheduletimezone: Central Summer Time UTC -5
+schedulehtml: 
+
+eventcountdown: false
+
+countdownscript:
+ 
+speakertext: 
+speakerlisturl: 
+callforspeakersurl: https://sessionize.com/day-of-data-winnipeg-2026/
+callforspeakers:  true
+callforspeakersenddate: 23 Aug 2026
+
+organizers:
+  - name: "Mike Diehl, Winnipeg Modern Data Meetup"
+    twitter: 
+    email: Mike.Diehl@Improving.com
+    url: 
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl: 
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+
+sponsorplan: The sponsor plan is coming soon.
