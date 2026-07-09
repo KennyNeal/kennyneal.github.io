@@ -155,6 +155,10 @@ sponsors:
     type: Bronze Sponsor
     image: /assets/img/logos/180Pros.jpg
     width: 300
+  - link: https://www.oreilly.com/
+    type: Book Sponsor
+    image: /assets/img/logos/OReilly_Logo.png
+    width: 300
 
 sponsorplan: |
     <style>
